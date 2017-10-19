@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c65000a-46a8-4eeb-abe9-9895235e15fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/Database.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/Database.inc.php" afterPath="$PROJECT_DIR$/model/Database.inc.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +17,14 @@
       <file leaf-file-name="Database.inc.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/Database.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="53" column="60" lean-forward="false" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+            <state relative-caret-position="595">
+              <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding>
-                <marker date="1508426237556" expanded="true" signature="1148:1276" ph="CREATE TABLE... IF" />
-                <marker date="1508426237556" expanded="true" signature="1315:1481" ph="CREATE TABLE... IF" />
-                <marker date="1508426237556" expanded="true" signature="1315:1482" ph="CREATE TABLE... IF" />
-                <marker date="1508426237556" expanded="true" signature="1315:1497" ph="CREATE TABLE... IF" />
-                <marker date="1508426237556" expanded="true" signature="1536:1808" ph="CREATE TABLE... IF" />
+                <marker date="1508426699418" expanded="true" signature="1148:1276" ph="CREATE TABLE... IF" />
+                <marker date="1508426699418" expanded="true" signature="1315:1481" ph="CREATE TABLE... IF" />
+                <marker date="1508426699418" expanded="true" signature="1315:1482" ph="CREATE TABLE... IF" />
+                <marker date="1508426699418" expanded="true" signature="1315:1497" ph="CREATE TABLE... IF" />
+                <marker date="1508426699418" expanded="true" signature="1536:1808" ph="CREATE TABLE... IF" />
               </folding>
             </state>
           </provider>
@@ -289,12 +289,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508407663201</updated>
-      <workItem from="1508407664903" duration="12878000" />
+      <workItem from="1508407664903" duration="13283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12878000" />
+    <option name="totallyTimeSpent" value="13283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -550,14 +550,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/Database.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="53" column="60" lean-forward="false" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+        <state relative-caret-position="595">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding>
-            <marker date="1508426237556" expanded="true" signature="1148:1276" ph="CREATE TABLE... IF" />
-            <marker date="1508426237556" expanded="true" signature="1315:1481" ph="CREATE TABLE... IF" />
-            <marker date="1508426237556" expanded="true" signature="1315:1482" ph="CREATE TABLE... IF" />
-            <marker date="1508426237556" expanded="true" signature="1315:1497" ph="CREATE TABLE... IF" />
-            <marker date="1508426237556" expanded="true" signature="1536:1808" ph="CREATE TABLE... IF" />
+            <marker date="1508426699418" expanded="true" signature="1148:1276" ph="CREATE TABLE... IF" />
+            <marker date="1508426699418" expanded="true" signature="1315:1481" ph="CREATE TABLE... IF" />
+            <marker date="1508426699418" expanded="true" signature="1315:1482" ph="CREATE TABLE... IF" />
+            <marker date="1508426699418" expanded="true" signature="1315:1497" ph="CREATE TABLE... IF" />
+            <marker date="1508426699418" expanded="true" signature="1536:1808" ph="CREATE TABLE... IF" />
           </folding>
         </state>
       </provider>
